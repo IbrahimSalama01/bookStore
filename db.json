@@ -1,0 +1,285 @@
+{
+  "books": [
+    {
+      "ISBN": "978-0451524935",
+      "Name": "1984",
+      "Category": "Dystopian",
+      "Image": "https://images.isbndb.com/covers/20614433482348.jpg",
+      "number_of_pages": 328,
+      "author": "George Orwell",
+      "price": 7.99,
+      "id": "67f9"
+    },
+    {
+      "ISBN": "978-0061120084",
+      "Name": "To Kill a Mockingbird",
+      "Category": "Classic",
+      "Image": "https://images.isbndb.com/covers/20490733482209.jpg",
+      "number_of_pages": 336,
+      "author": "Harper Lee",
+      "price": 8.99,
+      "id": "482a"
+    },
+    {
+      "ISBN": "978-1400033416",
+      "Name": "Beloved",
+      "Category": "Historical Fiction",
+      "Image": "https://images.isbndb.com/covers/12702223482686.jpg",
+      "number_of_pages": 324,
+      "author": "Toni Morrison",
+      "price": 14,
+      "id": "d281"
+    },
+    {
+      "ISBN": "978-0743273565",
+      "Name": "The Great Gatsby",
+      "Category": "Classic",
+      "Image": "https://images.isbndb.com/covers/17178573482452.jpg",
+      "number_of_pages": 180,
+      "author": "F. Scott Fitzgerald",
+      "price": 12.99,
+      "id": "d8b0"
+    },
+    {
+      "ISBN": "978-0547928227",
+      "Name": "The Hobbit",
+      "Category": "Fantasy",
+      "Image": "https://images.isbndb.com/covers/1644703482383.jpg",
+      "number_of_pages": 300,
+      "author": "J.R.R. Tolkien",
+      "price": 11.99,
+      "id": "f937"
+    },
+    {
+      "ISBN": "978-0439023481",
+      "Name": "The Hunger Games",
+      "Category": "Science Fiction",
+      "Image": "https://images.isbndb.com/covers/7943053482344.jpg",
+      "number_of_pages": 374,
+      "author": "Suzanne Collins",
+      "price": 10.99,
+      "id": "d832"
+    },
+    {
+      "ISBN": "978-0316015840",
+      "Name": "Twilight",
+      "Category": "Fantasy",
+      "Image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1700522826i/41865.jpg",
+      "number_of_pages": 498,
+      "author": "Stephenie Meyer",
+      "price": 9.99,
+      "id": "9d0d"
+    },
+    {
+      "ISBN": "978-0544003415",
+      "Name": "The Lord of the Rings",
+      "Category": "Fantasy",
+      "Image": "https://images.isbndb.com/covers/18568163482381.jpg",
+      "number_of_pages": 1178,
+      "author": "J.R.R. Tolkien",
+      "price": 19.99,
+      "id": "9ba2"
+    },
+    {
+      "ISBN": "978-0140283334",
+      "Name": "The Catcher in the Rye",
+      "Category": "Classic",
+      "Image": "https://images.isbndb.com/covers/25721113482237.jpg",
+      "number_of_pages": 224,
+      "author": "J.D. Salinger",
+      "price": 6.99,
+      "id": "d52a"
+    },
+    {
+      "ISBN": "978-0143105428",
+      "Name": "Pride and Prejudice",
+      "Category": "Romance",
+      "Image": "https://images.isbndb.com/covers/25856263482238.jpg",
+      "number_of_pages": 432,
+      "author": "Jane Austen",
+      "price": 5.99,
+      "id": "98d3"
+    },
+    {
+      "ISBN": "978-0307277671",
+      "Name": "The Da Vinci Code",
+      "Category": "Mystery",
+      "Image": "https://images.isbndb.com/covers/10517083482297.jpg",
+      "number_of_pages": 489,
+      "author": "Dan Brown",
+      "price": 9.99,
+      "id": "fd0b"
+    },
+    {
+      "ISBN": "978-0141439600",
+      "Name": "Wuthering Heights",
+      "Category": "Classic",
+      "Image": "https://images.isbndb.com/covers/9197983482238.jpg",
+      "number_of_pages": 464,
+      "author": "Emily Brontë",
+      "price": 7.99,
+      "id": "a500"
+    },
+    {
+      "ISBN": "978-0062315007",
+      "Name": "The Alchemist",
+      "Category": "Fantasy",
+      "Image": "https://images.isbndb.com/covers/4354173482210.jpg",
+      "number_of_pages": 208,
+      "author": "Paulo Coelho",
+      "price": 10.99,
+      "id": "646f"
+    },
+    {
+      "ISBN": "978-0141187761",
+      "Name": "Animal Farm",
+      "Category": "Political Satire",
+      "Image": "https://images.isbndb.com/covers/6679593482238.jpg",
+      "number_of_pages": 112,
+      "author": "George Orwell",
+      "price": 6.99,
+      "id": "fa45"
+    },
+    {
+      "ISBN": "978-0307588364",
+      "Name": "Gone Girl",
+      "Category": "Thriller",
+      "Image": "https://images.isbndb.com/covers/13624013482297.jpg",
+      "number_of_pages": 432,
+      "author": "Gillian Flynn",
+      "price": 13.99,
+      "id": "bc60"
+    },
+    {
+      "ISBN": "978-0062073495",
+      "Name": "The Girl with the Dragon Tattoo",
+      "Category": "Mystery",
+      "Image": "https://images.isbndb.com/covers/1939053482210.jpg",
+      "number_of_pages": 672,
+      "author": "Stieg Larsson",
+      "price": 14.99,
+      "id": "9a90"
+    },
+    {
+      "ISBN": "978-0-393-97283-2",
+      "Name": "Moby Dick",
+      "Category": "Adventure",
+      "Image": "https://images.isbndb.com/covers/6809203482328.jpg",
+      "number_of_pages": 704,
+      "author": "Herman Melville",
+      "price": 9.99,
+      "id": "0e3d"
+    },
+    {
+      "ISBN": "978-0143039433",
+      "Name": "The Kite Runner",
+      "Category": "Historical Fiction",
+      "Image": "https://images.isbndb.com/covers/25196313482238.jpg",
+      "number_of_pages": 400,
+      "author": "Khaled Hosseini",
+      "price": 10.99,
+      "id": "355c"
+    },
+    {
+      "ISBN": "978-0307387899",
+      "Name": "Life of Pi",
+      "Category": "Adventure",
+      "Image": "https://images.isbndb.com/covers/11619363482297.jpg",
+      "number_of_pages": 348,
+      "author": "Yann Martel",
+      "price": 12.99,
+      "id": "4a13"
+    },
+    {
+      "ISBN": "978-0062561022",
+      "Name": "The Night Circus",
+      "Category": "Fantasy",
+      "Image": "https://images.isbndb.com/covers/6814323482210.jpg",
+      "number_of_pages": 400,
+      "author": "Erin Morgenstern",
+      "price": 11.99,
+      "id": "e610"
+    },
+    {
+      "ISBN": "978-0765326355",
+      "Name": "The Name of the Wind",
+      "Category": "Fantasy",
+      "Image": "https://images.isbndb.com/covers/13020153482460.jpg",
+      "number_of_pages": 662,
+      "author": "Patrick Rothfuss",
+      "price": 15.99,
+      "id": "3591"
+    },
+    {
+      "ISBN": "978-0142424179",
+      "Name": "The Fault in Our Stars",
+      "Category": "Young Adult",
+      "Image": "https://images.isbndb.com/covers/19043773482238.jpg",
+      "number_of_pages": 336,
+      "author": "John Green",
+      "price": 9.99,
+      "id": "d777"
+    },
+    {
+      "ISBN": "978-0545010221",
+      "Name": "Harry Potter and the Sorcerer's Stone",
+      "Category": "Fantasy",
+      "Image": "https://images.isbndb.com/covers/550433482382.jpg",
+      "number_of_pages": 320,
+      "author": "J.K. Rowling",
+      "price": 10.99,
+      "id": "2bfc"
+    },
+    {
+      "ISBN": "978-0-385-73794-4",
+      "Name": "The Maze Runner",
+      "Category": "Science Fiction",
+      "Image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/The_Maze_Runner_cover.png/220px-The_Maze_Runner_cover.png",
+      "number_of_pages": 384,
+      "author": "James Dashner",
+      "price": 9.99,
+      "id": "b48a"
+    },
+    {
+      "ISBN": "978-0142407332",
+      "Name": "Looking for Alaska",
+      "Category": "Young Adult",
+      "Image": "https://images.isbndb.com/covers/18875303482238.jpg",
+      "number_of_pages": 256,
+      "author": "John Green",
+      "price": 8.99,
+      "id": "e93a"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "username": "johndoe",
+      "email": "8x5F8@example.com",
+      "password": "password123",
+      "wishlist": [
+        {
+          "ISBN": "978-0743273565"
+        },
+        {
+          "ISBN": "978-0-385-73794-4"
+        },
+        {
+          "ISBN": "978-0061120084"
+        },
+        {
+          "ISBN": "978-0547928227"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "username": "janedoe",
+      "email": "j7oMj@example.com",
+      "password": "password456",
+      "wishlist": []
+    }
+  ]
+}
