@@ -8,6 +8,7 @@ const wishListItemstore = useWishListItemsStore();
 const booksStore = useBooksStore();
 const authsStore = useAuthsStore();
 
+//computed so that it changes automatiaclly
 const wishlistBooks=computed(() => wishListItemstore.items.map(x=>booksStore.books.find(y=>y.ISBN==x.ISBN)));
 //wishlistBooks.value=wishListItemstore.items.map(x=>booksStore.books.find(y=>y.ISBN==x.ISBN));
 </script>
